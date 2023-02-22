@@ -16,4 +16,7 @@ current sequence name written out in your mode-line
 You can probably add this in all kinds of ways to your emacs installation, 
 using your `.emacs` file or in other ways. 
 
+Gentoo users can use the supplie `fasta-mode-1.ebuild` to install this
+on their system
+
 
