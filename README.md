@@ -8,9 +8,9 @@ Maybe once later I will add a go to sequence + position command.
 
 ### How to use this
 
-Open `fasta-mode.el` in emacs and run `M-x eval-buffer` you than 
-can open a fasta file and run `M-x fasta-mode` and you should get the 
-sequence position a the current cursor position as well as the 
+Open `fasta-mode.el` in emacs and run `M-x eval-buffer`. You can now
+open a fasta file and run `M-x fasta-mode` and should get the 
+sequence position at the current cursor position as well as the 
 current sequence name written out in your mode-line
 
 You can probably add this in all kinds of ways to your emacs installation, 
