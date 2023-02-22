@@ -5,3 +5,15 @@ Allows you to find the current sequence-position and sequence-name from a fasta 
 the modeline of emacs, which shall be super helpful for editing emacs file. 
 
 Maybe once later I will add a go to sequence + position command. 
+
+### How to use this
+
+Open `fasta-mode.el` in emacs and run `M-x eval-buffer` you than 
+can open a fasta file and run `M-x fasta-mode` and you should get the 
+sequence position a the current cursor position as well as the 
+current sequence name written out in your mode-line
+
+You can probably add this in all kinds of ways to your emacs installation, 
+using your `.emacs` file or in other ways. 
+
+
