@@ -2,7 +2,7 @@
 A mode for fasta files
 
 Allows you to find the current sequence-position and sequence-name from a fasta file in 
-the modeline of emacs, which shall be super helpful for editing emacs file. 
+the modeline of emacs, which shall be super helpful for editing a fasta file with emacs. 
 
 Maybe once later I will add a go to sequence + position command. 
 
@@ -16,7 +16,7 @@ current sequence name written out in your mode-line
 You can probably add this in all kinds of ways to your emacs installation, 
 using your `.emacs` file or in other ways. 
 
-Gentoo users can use the supplie `fasta-mode-1.ebuild` to install this
-on their system
+Gentoo users can make use the supplied `fasta-mode-1.ebuild` to install this
+on their system.
 
 
